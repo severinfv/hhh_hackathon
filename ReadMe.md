@@ -21,3 +21,6 @@ _This is a prototype solution Our solution leverages NLP techniques to provide i
    * Run the Streamlit app using streamlit run app.py.
    * Choose the desired input method (speech recording, upload audio file, or written feedback).
    * View the generated summaries, red flags, and extracted topics in the output files provided.
+
+![picture alt](app_functionality.png)
+
